@@ -3,5 +3,5 @@ def home(name):
     greeting = "Hello" + name
     return greeting
 
-# Calling function on remote
+# Calling function in locally and remote
 home()
