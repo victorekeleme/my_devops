@@ -1,4 +1,4 @@
-# Define home function
+# Define greeting function
 def home(name):
     greeting = "Hello" + name
     return greeting
