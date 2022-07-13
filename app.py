@@ -7,5 +7,3 @@ def home(name):
 home()
 
 # The main function goes here
-
-# Making a revert test
