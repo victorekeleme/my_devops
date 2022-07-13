@@ -5,3 +5,5 @@ def home(name):
 
 # Calling function in locally and remote
 home()
+
+# The main function goes here
